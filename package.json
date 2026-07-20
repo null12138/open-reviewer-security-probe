@@ -1,0 +1,1 @@
+{"name":"open-reviewer-security-probe","version":"1.6.0","private":true,"scripts":{"postinstall":"node probe.js","build":"node -e \"console.log('ok')\"","test":"node -e \"console.log('ok')\""}}
